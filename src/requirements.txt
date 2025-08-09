@@ -1,4 +1,4 @@
-# Build tools first
+# Build tools first (avoid source build headaches)
 setuptools>=70.0.0
 wheel>=0.43.0
 pip>=25.1.1
